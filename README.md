@@ -3,11 +3,11 @@
 <br>
 ## ⏰ Project time
 
-#### `2022.11.08 - 2022.12.07`
+#### `2023.01.03 - 2022.01.31`
 
 <br>
 
-## 📔 Document
+ 📔 Document
 <details>
 <summary>전체 구현 목록 & 담당</summary>
 
