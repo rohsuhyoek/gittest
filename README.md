@@ -7,7 +7,7 @@
 
 <br>
 
- 📔 Document
+## 📔 Document
 <details>
 <summary>전체 구현 목록 & 담당</summary>
 
