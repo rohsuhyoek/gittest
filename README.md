@@ -1,6 +1,6 @@
 # 🥇 등산하조 - team 029
 
-![testBanner02](https://ifh.cc/g/v5lXwx.jpg)
+![testBanner02](https://ifh.cc/g/sgf0vT.jpg)
 
 <br>
 
