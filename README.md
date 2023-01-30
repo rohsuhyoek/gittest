@@ -1,8 +1,13 @@
 # 🥇 등산하조 - team 029
 
 <br>
-## 📔 Document
+## ⏰ Project time
 
+#### `2022.11.08 - 2022.12.07`
+
+<br>
+
+## 📔 Document
 <details>
 <summary>전체 구현 목록 & 담당</summary>
 
