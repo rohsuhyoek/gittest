@@ -16,10 +16,10 @@
 |<img src="https://avatars.githubusercontent.com/u/71127157?v=4" width="150px"/>|<img src="https://avatars.githubusercontent.com/u/48819024?v=4" width="150px"/>|<img src="https://avatars.githubusercontent.com/u/107971877?v=4" width="150px"/>|<img src="https://avatars.githubusercontent.com/u/107971877?v=4" width="150px" />|
 |[@sywoo0109](https://github.com/sywoo0109)|[@DPDPO](https://github.com/DPDPO)|[@hannaax](https://github.com/hannaax)|[@rohsuhyoek](https://github.com/rohsuhyoek)|
 
-|김신재(BE팀장)|방인석|조현식|
+|박민우(부팀장)|박정한울|장현준|
 |----|----|----|
-|<img src="https://user-images.githubusercontent.com/89185550/200539753-c273f7d7-43e5-4e3f-ba1f-3fa13617c616.jpeg" width="150px" />|<img src="https://user-images.githubusercontent.com/89185550/200539186-d7c54fae-514d-448f-b53d-ef1d87101c7d.png" width="150px"/>|<img src="https://user-images.githubusercontent.com/89185550/200539734-ad2ec920-aa02-4bbd-9ce6-3885661fc912.jpg" width="150px" />|
-|[@shinjaekim](https://github.com/shinjaekim)|[@Inssg](https://github.com/Inssg)|[@abcodefg](https://github.com/abcodefg)|
+|<img src="https://avatars.githubusercontent.com/u/83641398?v=4" width="150px" />|<img src="https://avatars.githubusercontent.com/u/54827741?v=4" width="150px"/>|<img src="https://avatars.githubusercontent.com/u/48895268?v=4" width="150px" />|
+|[@MWJOB](https://github.com/MWJOB)|[@Hanul01](https://github.com/Hanul01)|[@tty0912](https://github.com/tty0912)|
 
 
 
