@@ -1,3 +1,2 @@
-
-# :alarm_clock: 슬기로운 생활
+<img src="head.png"></img>
 
