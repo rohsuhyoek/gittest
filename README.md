@@ -11,10 +11,10 @@
 <br>
 
 ## 💪 Team Member
-|최윤우(팀장)      |한승진(FE팀장)|고정훈|고하나|
+|우성윤(팀장)      |박승철|박한나|노수혁|
 |---------------|----|----|----|
-|<img src="https://avatars.githubusercontent.com/u/71127157?v=4" width="150px"/>|<img src="https://user-images.githubusercontent.com/89185550/200539888-90098221-47b0-446e-a2a5-9be1d926d8ea.png" width="150px"/>|<img src="https://user-images.githubusercontent.com/107971188/205416593-c9a03f99-9e8e-4fd0-8601-fdb86048a9d6.png" width="150px"/>|<img src="https://user-images.githubusercontent.com/107971188/205416550-07670d1d-ec28-4db3-8d6e-2d53a8fa3ec5.png" width="150px" />|
-|[@Helperbot5](https://github.com/Helperbot5)|[@likeprograming1](https://github.com/likeprograming1)|[@e5lina](https://github.com/e5lina)|[@ko9612](https://github.com/ko9612)|
+|<img src="https://avatars.githubusercontent.com/u/71127157?v=4" width="150px"/>|<img src="https://avatars.githubusercontent.com/u/48819024?v=4" width="150px"/>|<img src="https://avatars.githubusercontent.com/u/107875003?v=4" width="150px"/>|<img src="https://avatars.githubusercontent.com/u/107971877?v=4" width="150px" />|
+|[@sywoo0109](https://github.com/sywoo0109)|[@DPDPO](https://github.com/DPDPO)|[@hannaax](https://github.com/hannaax)|[@rohsuhyoek](https://github.com/rohsuhyoek)|
 
 |김신재(BE팀장)|방인석|조현식|
 |----|----|----|
