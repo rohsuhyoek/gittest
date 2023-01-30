@@ -13,7 +13,7 @@
 ## 💪 Team Member
 |우성윤(팀장)      |박승철|박한나|노수혁|
 |---------------|----|----|----|
-|<img src="https://avatars.githubusercontent.com/u/71127157?v=4" width="150px"/>|<img src="https://avatars.githubusercontent.com/u/48819024?v=4" width="150px"/>|<img src="https://avatars.githubusercontent.com/u/107875003?v=4" width="150px"/>|<img src="https://avatars.githubusercontent.com/u/107971877?v=4" width="150px" />|
+|<img src="https://avatars.githubusercontent.com/u/71127157?v=4" width="150px"/>|<img src="https://avatars.githubusercontent.com/u/48819024?v=4" width="150px"/>|<img src="https://avatars.githubusercontent.com/u/107971877?v=4" width="150px"/>|<img src="https://avatars.githubusercontent.com/u/107971877?v=4" width="150px" />|
 |[@sywoo0109](https://github.com/sywoo0109)|[@DPDPO](https://github.com/DPDPO)|[@hannaax](https://github.com/hannaax)|[@rohsuhyoek](https://github.com/rohsuhyoek)|
 
 |김신재(BE팀장)|방인석|조현식|
