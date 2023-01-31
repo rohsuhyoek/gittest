@@ -45,7 +45,7 @@
 ![_로그인](https://ifh.cc/g/DagH8k.gif)
 
 ### 커뮤니티
-![_2_복망고생성](https://ifh.cc/g/d2Wgch.gif)
+![_2_복망고생성](https://ifh.cc/g/n8BZbs.gif)
 
 ### 커뮤니티 세부 조회 페이지
 ![_3_생성후공유하기](https://user-images.githubusercontent.com/36831218/205999273-e5c7469a-4ddd-4f6c-98a0-a349d96a610f.gif)
