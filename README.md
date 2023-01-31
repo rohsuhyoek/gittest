@@ -29,6 +29,9 @@
 |<img src="https://avatars.githubusercontent.com/u/83641398?v=4" width="150px" />|<img src="https://avatars.githubusercontent.com/u/54827741?v=4" width="150px"/>|<img src="https://avatars.githubusercontent.com/u/48895268?v=4" width="150px" />|
 |[@MWJOB](https://github.com/MWJOB)|[@Hanul01](https://github.com/Hanul01)|[@tty0912](https://github.com/tty0912)|
 
+## 🖥 시연 및 발표영상
+[🔗 링크]()
+
 
 
 ## 📔 Document
