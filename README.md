@@ -39,7 +39,7 @@
 ![_1_메인](https://user-images.githubusercontent.com/36831218/205998994-425c2d2e-a896-4c22-900a-9168240b10ae.gif)
 
 ### 회원가입
-![_6_회원가입](https://user-images.githubusercontent.com/36831218/205999131-71df75c7-6c02-4422-a538-1411307b8696.gif)
+![_6_회원가입](https://ifh.cc/g/PY1KkO.gif)
 
 ### 로그인
 ![_7_메인후기생성](https://user-images.githubusercontent.com/36831218/205999063-99b96422-6644-4587-80ed-389be1ac2018.gif)
