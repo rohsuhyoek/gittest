@@ -14,7 +14,7 @@
 |우성윤(팀장)      |박승철|박한나|노수혁|
 |---------|----|----|----|
 |<img src="https://avatars.githubusercontent.com/u/71127157?v=4" width="150px"/>|<img src="https://avatars.githubusercontent.com/u/48819024?v=4" width="150px"/>|<img src="https://avatars.githubusercontent.com/u/107971877?v=4" width="150px"/>|<img src="https://avatars.githubusercontent.com/u/107424698?v=4" width="150px" />|
-|[@sywoo0109](https://github.com/sywoo0109)|[@DPDPO](https://github.com/DPDPO)|[@hannaax](https://github.com/hannaax)|[@rohsuhyoek](https://github.com/rohsuhyoek)|
+|ㅇ[@sywoo0109](https://github.com/sywoo0109)|[@DPDPO](https://github.com/DPDPO)|[@hannaax](https://github.com/hannaax)|[@rohsuhyoek](https://github.com/rohsuhyoek)|
 
 |박민우(부팀장)|박정한울|장현준|
 |----|----|----|
