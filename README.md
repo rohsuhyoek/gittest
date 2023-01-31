@@ -51,10 +51,10 @@
 ![_3_생성후공유하기](https://ifh.cc/g/a21WTh.gif)
 
 ### 게시글 작성
-![_4_내복망고덕담보기](https://user-images.githubusercontent.com/36831218/205999335-1d5044ab-1be2-45e9-bb2d-5c2beb2b5b6f.gif)
+![_4_내복망고덕담보기](https://ifh.cc/g/lmOYH0.gif)
 
 ### 게시글 수정 
-![_8_덕담남기기](https://user-images.githubusercontent.com/36831218/205999376-27d6e604-3ff7-4d29-be4b-86095ed08157.gif)
+![_8_덕담남기기](https://ifh.cc/g/pdyt6a.gif)
 
 ### 마이페이지
 ![_5_마이페이지정보수정](https://ifh.cc/g/nc0Hhd.gif)
