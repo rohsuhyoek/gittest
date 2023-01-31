@@ -70,3 +70,14 @@
 ![스택](https://user-images.githubusercontent.com/111442906/215719720-90602663-918a-4a39-9103-980f50d59890.png)
 
 <br>
+
+## 📑문서
+ <ul>
+   <li><a href="https://www.notion.so/codestates/06c06c7db75e4ecc9b0cbe08db5d940b" target='_blank'>팀 노션 페이지</a></li>
+   <li><a href="https://docs.google.com/spreadsheets/d/1ZppFR4KfICokyxrVkfQbXsoXFQAcMq0WFfTPNUBOWwg/edit#gid=0" target='_blank'>사용자 요구사항 정의서</a></li>
+   <li><a href="https://documenter.getpostman.com/view/23682011/2s8ZDa2MYg" target='_blank'>API 명세서</a></li>
+  <li><a href="https://docs.google.com/presentation/d/17WFJV_vw8L1AiPvVkbu5MXBu9LztfyQL7DiH6AhwnNw/edit#slide=id.g1c8f20fffb8_0_1" target='_blank'>화면 정의서</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/14zcB7qL8oZpVOleOv8aI_WeolJv1qjxlMvBykPYiotg/edit" target='_blank'>테이블 명세서</a></li>
+  <li><a href="https://www.figma.com/file/C2xztR0ih0KaEWABcSXM7X/%EB%93%B1%EC%82%B0%ED%95%98%EC%A1%B0?node-id=0%3A1&t=3PPUxVAxjNdLcUZs-0" target='_blank'>figma</a></li>
+ </ul>
+
