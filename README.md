@@ -36,7 +36,7 @@
 ![_1_메인](https://gfycat.com/anchoredjovialdunlin)
 
 ### 랜딩 페이지(Log in 후)
-![_1_메인](https://ifh.cc/v/RDMdsm.mp4)
+![_1_메인](https://ifh.cc/g/m4m98X.gif)
 
 ### 회원가입
 ![_6_회원가입](https://ifh.cc/g/PY1KkO.gif)
