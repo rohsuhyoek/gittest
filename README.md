@@ -48,7 +48,7 @@
 ![_2_복망고생성](https://ifh.cc/g/n8BZbs.gif)
 
 ### 커뮤니티 세부 조회 페이지
-![_3_생성후공유하기](https://user-images.githubusercontent.com/36831218/205999273-e5c7469a-4ddd-4f6c-98a0-a349d96a610f.gif)
+![_3_생성후공유하기](https://ifh.cc/g/a21WTh.gif)
 
 ### 게시글 작성
 ![_4_내복망고덕담보기](https://user-images.githubusercontent.com/36831218/205999335-1d5044ab-1be2-45e9-bb2d-5c2beb2b5b6f.gif)
