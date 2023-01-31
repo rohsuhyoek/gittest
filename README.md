@@ -42,7 +42,7 @@
 ![_6_회원가입](https://ifh.cc/g/PY1KkO.gif)
 
 ### 로그인
-![_7_메인후기생성](https://user-images.githubusercontent.com/36831218/205999063-99b96422-6644-4587-80ed-389be1ac2018.gif)
+![_로그인](https://ifh.cc/g/DagH8k.gif)
 
 ### 커뮤니티
 ![_2_복망고생성](https://ifh.cc/g/d2Wgch.gif)
