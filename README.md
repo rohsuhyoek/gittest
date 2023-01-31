@@ -32,10 +32,9 @@
 ## 🖥 시연 및 발표영상
 [🔗 링크]()
 
-### 랜딩 페이지(Log in 전)
-![_1_메인](https://gfycat.com/anchoredjovialdunlin)
 
-### 랜딩 페이지(Log in 후)
+
+### 랜딩 페이지
 ![_1_메인](https://ifh.cc/g/m4m98X.gif)
 
 ### 회원가입
